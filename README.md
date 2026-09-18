@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/swikritidominators/DSA-/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/swikritidominators/DSA-/tree/master/0171-excel-sheet-column-number) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/swikritidominators/DSA-/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
