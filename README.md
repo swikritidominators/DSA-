@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/swikritidominators/DSA-/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/swikritidominators/DSA-/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/swikritidominators/DSA-/tree/master/0134-gas-station) |
+| [0561-array-partition](https://github.com/swikritidominators/DSA-/tree/master/0561-array-partition) |
 ## Backtracking
 |  |
 | ------- |
@@ -21,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/swikritidominators/DSA-/tree/master/0134-gas-station) |
+| [0561-array-partition](https://github.com/swikritidominators/DSA-/tree/master/0561-array-partition) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/swikritidominators/DSA-/tree/master/0056-merge-intervals) |
+| [0561-array-partition](https://github.com/swikritidominators/DSA-/tree/master/0561-array-partition) |
 ## Quicksort
 |  |
 | ------- |
@@ -42,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/swikritidominators/DSA-/tree/master/0050-powx-n) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/swikritidominators/DSA-/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
