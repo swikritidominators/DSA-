@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/swikritidominators/DSA-/tree/master/0561-array-partition) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/swikritidominators/DSA-/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/swikritidominators/DSA-/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
