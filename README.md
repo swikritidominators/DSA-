@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/swikritidominators/DSA-/tree/master/0134-gas-station) |
 | [0561-array-partition](https://github.com/swikritidominators/DSA-/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/swikritidominators/DSA-/tree/master/0896-monotonic-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/swikritidominators/DSA-/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/swikritidominators/DSA-/tree/master/0061-rotate-list) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/swikritidominators/DSA-/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
